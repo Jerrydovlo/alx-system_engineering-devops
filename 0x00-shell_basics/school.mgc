@@ -1,0 +1,3 @@
+#!/bin/bash
+cat > school.magic <<EOF 0 string SCHOOL school data file EOF 
+file -m school.magic school
